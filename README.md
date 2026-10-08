@@ -2,9 +2,9 @@
 
 Search any artist and see their live history at a glance: the songs they play most, the cities they've played most, and their most recent shows. Filter by tour to compare different eras.
 
-**Live demo:** setlistics.vercel.app
+**Live demo:** ![Click Here](setlistics.vercel.app)
 
-![Setlistics screenshot](./screenshot.png)
+![Setlistics screenshot](./public/screenshot.png)
 
 ## Features
 
